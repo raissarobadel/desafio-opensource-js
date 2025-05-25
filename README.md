@@ -3,7 +3,7 @@
 <h3>Terceiro Desafio | "Utilizando Recursos do GitHub em um Projeto Open Source", proposto pela Aline Antunes da DIO</h3>
 </div>
 
-<img src = "image.png" alt = "Colaboração no GitHub"/>
+<img src = "assets/image.png" alt = "Colaboração no GitHub"/>
 
 <br>
 
